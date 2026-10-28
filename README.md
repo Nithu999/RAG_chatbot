@@ -1,4 +1,4 @@
-# LangChain Chroma RAG demo 2024
+# LangChain Chroma RAG demo 2026
 
 This repository demonstrates a Retrieval-Augmented Generation (RAG) system built with FastAPI, LangChain, and the ChromaDB vector database. The FastAPI app follows a Service-Oriented Architecture (SOA) and runs with an in-memory database that includes persistence. It allows users to ingest custom data and query it using a retriever and prompt template, with answers streamed back to the user in real time.
 
